@@ -1,0 +1,67 @@
+.cont{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../../assets/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hd{
+    padding-bottom: 15px;
+}
+
+.container-login{
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0px 200px;
+    width: 380px;
+    height: 480px;
+    opacity: 0.8;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0px 10px rgba(146, 128, 128, 0.8);
+}
+
+.welcome{
+    color: chocolate;
+    font-weight: 500;
+}
+
+.logo{
+    border-radius: 5px;
+    width: 100px;
+}
+
+.form-control{
+    margin-top: 10px;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+input::placeholder{
+    text-align: center;
+}
+
+.link-register{
+    text-decoration: none;
+    color:  black;
+}
+
+.link-register:hover{
+    text-decoration: none;
+    color: chocolate;
+}
+
+footer{
+    padding-top: 10px;
+    font-size: 10px;
+}
+
+

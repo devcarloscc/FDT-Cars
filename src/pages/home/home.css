@@ -1,0 +1,205 @@
+@import url("https://fonts.googleapis.com/css2?family=Alex+Brush&family=Holtwood+One+SC&family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap");
+
+.body-home {
+  background-color: #ffffff;
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 10px;
+}
+
+.logo {
+  width: 100px;
+  margin-top: 25px;
+}
+
+.container-search {
+  max-width: 100%;
+  margin: 140px auto;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  width: 600px;
+  height: 200px;
+}
+
+.img-chave {
+  width: 450px;
+  height: 450px;
+  border-radius: 200px;
+  margin-right: 100px;
+  margin-top: 50px;
+  padding: 10px;
+  background: linear-gradient(to bottom right, #cccc 60%, #2F4858 30%);
+}
+
+.container-total {
+  display: flex;
+  height: 100vh;
+  justify-content: space-between;
+  background: linear-gradient(to bottom right, #cccc 70%, #2F4858 30%);
+}
+
+section h4 {
+  font-size: 45px;
+  font-family: "Holtwood One SC", serif;
+  text-align: left;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.btn-warning {
+  width: 100px;
+}
+
+.button-busca{
+  
+  width: 400px;
+}
+
+h4 span {
+  color: #d2691e;
+}
+
+.search-button {
+  margin: 0px;
+}
+
+.text-home {
+  text-align: left;
+  font-style: italic;
+  font-size: 16px;
+  color: #000000;
+  font-weight: 500;
+}
+
+.title-section-carros {
+  font-family: "Holtwood One SC", serif;
+  font-size: 36px;
+  text-align: center;
+  font-style: oblique;
+  padding-top:40px;
+  padding-bottom: 40px;
+  background-color: #ccc;
+  margin-top: 15px;
+}
+
+section img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: transform 0.5s ease;
+}
+
+.section-car {
+  width: calc(25% - 20px);
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-car:hover{
+    transform: scale(1.05);
+}
+
+/* Estilo para a imagem do carro */
+.card-img-top {
+  width: 100%; /* Garante que a imagem do carro ocupe toda a largura do card */
+  height: 200px; /* Define a altura da imagem do carro */
+  object-fit: cover; /* Garante que a imagem do carro seja cortada para caber no card */
+}
+
+/* Estilo para o corpo do card */
+.card-body {
+  margin: 10px 20px;
+}
+
+/* Estilo para o título do carro */
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+  font-size: 18px; /* Define o tamanho da fonte do título */
+  margin-bottom: 5px; /* Adiciona um pequeno espaçamento abaixo do título */
+}
+
+/* Estilo para o texto do carro */
+.card-text {
+  font-size: 14px; /* Define o tamanho da fonte do texto */
+  color: #666; /* Define a cor do texto */
+  margin-bottom: 5px; /* Adiciona um pequeno espaçamento abaixo do texto */
+}
+
+/* Estilo para o preço do carro */
+.card-text strong {
+  color: #333; /* Define a cor do preço */
+}
+
+/* Estilo para o texto da localização do carro */
+.card-location {
+  font-size: 12px; /* Define o tamanho da fonte da localização */
+  color: #888; /* Define a cor do texto da localização */
+}
+
+
+
+/* Como escolher seu usado */
+
+.como-escolher-usado {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    background: linear-gradient(to bottom right, #cccc 70%, #2F4858 30%);
+  }
+
+  div p span{
+    font-size: 56px;
+    color: #d2691e;
+  }
+  
+  .texto {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .texto h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .texto p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .video {
+    width: 500px;
+    height: 300px;
+    flex: 1;
+    margin: 30px 100px;
+    padding: 0px;
+  }
+  
+  /* Estilize o vídeo conforme necessário */
+  .video iframe {
+    width: 100%;
+    height: 100%;
+  }
+
+.div-title-video{
+    width: 500px;
+}
+
+.title-video{
+    font-family: "Holtwood One SC", serif;
+    font-size: 46px;
+    font-style: italic;
+}
+  

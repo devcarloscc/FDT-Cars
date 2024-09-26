@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Alex+Brush&family=Holtwood+One+SC&family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap");
+
+.header {
+  max-width: 100%;
+  width: 100vw;
+  height: 80px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center; /* Centraliza verticalmente os itens */
+  background-color: #333; /* Alterado para um tom de cinza escuro */
+  padding: 50px 20px; /* Reduzido o espaçamento interno */
+}
+
+.header nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex; /* Transforma a lista em um flex container */
+}
+
+.header nav ul li {
+  margin-right: 20px;
+}
+
+.header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-family: 'Nunito', sans-serif;
+  font-size: 12px; /* Aumenta o tamanho da fonte */
+  transition: color 0.3s; /* Adiciona uma transição suave para a cor do texto */
+}
+
+.header nav ul li a:hover {
+  color: #ffcc00; /* Altera a cor do texto ao passar o mouse sobre o link */
+}
+
+.logo-nav{
+  width: 50px; /* Aumenta o tamanho do logo */
+  border-radius: 10%; /* Transforma o logo em um círculo */
+}

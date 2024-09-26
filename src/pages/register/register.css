@@ -1,0 +1,31 @@
+.body-register{
+    background-image: url(../../assets/background-inverted.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+}
+
+.hd-sc{
+    padding-bottom: 15px;
+}
+
+.title-register{
+    color: chocolate;
+}
+
+.container-register{
+    display: flex;
+    opacity: 0.8;
+    flex-direction: column;
+    width: 380px;
+    height: 480px;
+    margin: auto 800px;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0px 10px rgba(146, 128, 128, 0.8);
+}

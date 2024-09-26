@@ -1,0 +1,41 @@
+{
+    "usuarios": [
+      {
+        "email": "filhodotujo@gmail.com",
+        "senha": "1234",
+        "favoritos": [7, 8]
+      },
+      {
+        "email": "carlosccdev@gmail.com",
+        "senha": "12345678",
+        "favoritos": [6]
+      },
+      {
+        "email": "carlos.carlos1285@gmail.com",
+        "senha": "12345678",
+        "favoritos": [5]
+      },
+      {
+        "email": "teste@teste.com",
+        "senha": "123",
+        "favoritos": [1, 2, 3, 4, 5]
+      },
+      {
+        "email": "a@a.com",
+        "senha": "123",
+        "favoritos": [8]
+      },
+      {
+        "email": "levi@alves.com",
+        "senha": "123",
+        "favoritos": [1, 2, 3, 4, 5, 6, 7, 8]
+      },
+      {
+        "email": "paulo@av.com",
+        "senha": "123",
+        "favoritos": [1, 2, 3, 4]
+      }
+    ]
+}
+    
+  

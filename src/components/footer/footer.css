@@ -1,0 +1,29 @@
+.footer-container {
+  background-color: #ccc;
+  padding: 20px 0;
+  text-align: center;
+}
+  
+.footer-content {
+  display: flex;
+  justify-content: center;
+}
+  
+.footer-link {
+  color: #333;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 16px;
+}
+  
+.footer-link:hover{
+  text-decoration: underline;
+}
+
+.copy-container{
+  margin-top: 15px;
+}
+
+.copy-container p{
+  font-size: 12px;
+}
