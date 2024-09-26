@@ -42,7 +42,7 @@ export function CadastroCarro({ onCadastroSucesso }: CadastroCarroProps) {
     };
 
     try {
-      await axios.post("http://localhost:3000/0", novoCarro);
+      await axios.post("http://localhost:3000/carros", novoCarro);
       
       onCadastroSucesso();
       
