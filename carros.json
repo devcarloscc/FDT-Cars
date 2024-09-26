@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "modelo": "Jaguar F-PACE",
+      "ano": "2016/2017",
+      "km": "26999 Km",
+      "preco": "R$ 239.000,00",
+      "localizacao": "Juazeiro do Norte - CE",
+      "imagem": "https://cdn.motor1.com/images/mgl/NR8nM/s3/2021-jaguar-f-pace.webp"
+    },
+    {
+      "id": 2,
+      "modelo": "Porshe Panameira",
+      "ano": "2020/2021",
+      "km": "59.000",
+      "preco": "R$ 230.000,00",
+      "localizacao": "Russas - CE",
+      "imagem": "https://classic.exame.com/wp-content/uploads/2021/07/Porsche-911-Turbo-S-1.jpg?quality=70&strip=info&w=1024"
+    },
+    {
+      "id": 3,
+      "modelo": "Land Hover Velar",
+        "ano": "2021",
+        "km": "69.000",
+        "preco": "R$ 330.000,00",
+        "localizacao": "Fortaleza - CE",
+        "imagem": "https://www.webmotors.com.br/wp-content/uploads/2021/02/10164333/thumbnail_Land_Rover-Range_Rover_Velar-2021-1280-13.jpg"
+    },
+    {
+      "id": 4,
+      "modelo": "Camaro Yenko",
+      "ano": "2021",
+      "km": "0 Km",
+      "preco": "R$ 1.239.000,00",
+      "localizacao": "Juazeiro do Norte - CE",
+      "imagem": "https://s2-autoesporte.glbimg.com/hDgL3el9GOKvoJ04k-oqfS0R0hY=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/y/A/tAbtSITk65dt4O0zvwhA/2020-09-28-2021-yenko-camaro-8.jpg"
+    },
+    {
+      "id": 5,
+      "modelo": "Honda Civic Híbrido",
+      "ano": "2024",
+      "km": "0 Km",
+      "preco": "R$ 244.900,00",
+      "localizacao": "Itapajé - CE",
+      "imagem": "https://cdn.motor1.com/images/mgl/Kbnl8q/s2/honda-civic-e-hev-2023.webp"
+    },
+    {
+      "id": 6,
+        "modelo": "Fiat Strada",
+        "ano": "2024",
+        "km": "13.000",
+        "preco": "R$ 98.000,00",
+        "localizacao": "Fortaleza - CE",
+        "imagem": "https://cdn.motor1.com/images/mgl/XB0WJv/s3/fiat-strada-ultra-2024.jpg"
+    },
+    {
+      "id": 7,
+      "modelo": "Toyota Hilux",
+      "ano": "2018",
+      "km": "26999 Km",
+      "preco": "R$ 158.000,00",
+      "localizacao": "Caucaia - CE",
+      "imagem": "https://cdn.revendapro.com.br/vehicles/v8931729/f437e87e8e2c450b2b4320a753b17b64_big.jpeg"
+    },
+    {
+      "id": 8,
+      "modelo": "Toyota Corolla",
+      "ano": "2020/2021",
+      "km": "59.000",
+      "preco": "R$ 109.000,00",
+      "localizacao": "Russas - CE",
+      "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCRmIXCp2e7dwwlGuc4-vCwJPSyNoO-oDA4WOIKD59zcAhGK_KeyEMaukYvvANxSa0T2ubZhEoArqG07eblurFTEqXGT_f-GCaOX_hB8C68jWtZGfwDX6rZgvFtD5XHt9njMUG55QQVxTZ/s1600/Novo-Corolla-2020-Hybrid+%25284%2529.jpg"
+    }
+  ]
+  
